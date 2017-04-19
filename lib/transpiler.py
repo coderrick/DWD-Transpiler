@@ -1,3 +1,3 @@
 '''
-Modules will be called here
+Import everything needed to use the module here.
 '''
